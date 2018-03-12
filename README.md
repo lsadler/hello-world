@@ -1,3 +1,3 @@
 # hello-world
 Test set-up
-This is a test readme file to confirm get setup
+This is a test readme file to confirm git setup
